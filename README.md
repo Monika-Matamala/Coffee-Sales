@@ -9,7 +9,6 @@ This project involves analyzing coffee shop sales data using Microsoft Excel. Th
   - Total Footfall
   - Average Bill per Person
   - Average Order per Person
-  - Monthly and Daily Slicers for detailed analysis
 - **Data Visualization**:
   - Graphs and Pie Charts created using PivotCharts
   - Dynamic data filtering with slicers
